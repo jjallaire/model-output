@@ -1,6 +1,6 @@
-# Model Ouput
+# Model Output
 
-Install with:
+Install for a project by executing this from the project working directory:
 
 ```bash
 $ quarto add jjallaire/model-output
