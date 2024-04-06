@@ -1,0 +1,8 @@
+title: Model Output
+author: jjallaire
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  filters:
+    - model-output.lua
+
